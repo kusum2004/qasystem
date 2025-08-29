@@ -1,0 +1,60 @@
+Machine Learning (ML) — At a Glance
+🔹 What is ML?
+
+Machine Learning is a subset of Artificial Intelligence (AI) where computers learn patterns from data and make predictions/decisions without being explicitly programmed with rules.
+
+Example: Instead of coding "if email has the word lottery, mark spam," an ML model learns from thousands of labeled spam/non-spam emails to detect spam automatically.
+
+🔹 Categories of ML
+
+Supervised Learning
+
+Train on labeled data (input → output).
+
+Goal: predict outcomes.
+
+Examples:
+
+Predicting house prices 🏠 (regression).
+
+Email spam detection 📧 (classification).
+
+Unsupervised Learning
+
+Train on unlabeled data (only input).
+
+Goal: find hidden structure.
+
+Examples:
+
+Customer segmentation in marketing 👥.
+
+Topic clustering in documents 📚.
+
+Reinforcement Learning (RL)
+
+Agent learns by interacting with an environment (trial and error).
+
+Goal: maximize reward.
+
+Examples:
+
+Self-driving cars 🚗.
+
+Game playing (Chess, Go, Atari 🎮).
+
+🔹 ML Workflow
+
+Data Collection (CSV, databases, APIs).
+
+Data Preprocessing (cleaning, normalization, handling missing values).
+
+Feature Engineering (extracting meaningful variables).
+
+Model Selection (Linear Regression, Decision Trees, Neural Networks).
+
+Training (fit model to training data).
+
+Evaluation (accuracy, precision, recall, F1, RMSE).
+
+Deployment (serve model via API, integrate into apps).
